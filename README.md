@@ -1,2 +1,3 @@
 # Hello-World
-Hello world, i'm new to be here. hope i can get learn much further with github :)
+Hello world, i'm new to be here. 
++github is awesome stuff, hope i can get learn much further :)
